@@ -4,8 +4,6 @@
 
 <br/>
  </div>
-
- <hr/>
  
 <h2 align="center">⚒️ Języki które potrafie! ⚒️</h2>
 <br/>
